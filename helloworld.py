@@ -1,6 +1,6 @@
 # This program prints Hello, world!
 
-print('Hello, world!')
+print('Welcome!')
 
 print("This is another string!")
 print("Displaying numbers 1 to 10:")
